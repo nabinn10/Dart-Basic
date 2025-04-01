@@ -9,6 +9,15 @@ void main()
       lessThanFive.add(numbers[i]);
     }
   }
+  
+
+  // Using forEach method
+  // numbers.forEach((number) {
+  //   if (number < 5) {
+  //     lessThanFive.add(number);
+  //   }
+  // });
+  
   // for (int number in numbers) {
   //   if (number < 5) {
   //     lessThanFive.add(number);
